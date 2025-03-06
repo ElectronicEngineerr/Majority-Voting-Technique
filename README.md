@@ -4,4 +4,4 @@ Design a Majority Voting Technique module using VHDL in Vivado and verify it wit
 
 # Design a Majority Voting Technique module using VHDL in Vivado and verify it with a Test Bench
 
-![UART TX SIMULATION](images_of_simulations/1_Test.png)
+![UART TX SIMULATION](images_of_simulation/1_Test.png)
