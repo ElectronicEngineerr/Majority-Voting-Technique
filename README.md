@@ -24,4 +24,4 @@ HERE ARE THE SIMULATION RESULTS OF THE DESIGN! 🚀
 1- 64 BIT TEST DATA
 ![UART TX SIMULATION](images_of_simulation/1_Test.png)
 2- 16 BIT TEST DATA
-![UART TX SIMULATION](images_of_simulation/1_Test.png)
+![UART TX SIMULATION](images_of_simulation/2_Test.png)
