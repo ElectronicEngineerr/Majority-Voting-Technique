@@ -4,6 +4,7 @@ Design a Majority Voting Technique module using VHDL in Vivado and verify it wit
 
 # Design a Majority Voting Technique module using VHDL in Vivado and verify it with a Test Bench
 
+
 In modern communication protocols, certain techniques are used to prevent bit errors caused by external electromagnetic fields affecting digital systems. These techniques act as a filter by sampling incoming data bit by bit to correct errors that may occur.
 
 In this repository, I will design a module that processes an 8-bit communication data stream by taking 16 samples per bit and determining the final bit value based on the majority count of 1s and 0s. The design is implemented in VHDL using Vivado and has been verified through simulation.
